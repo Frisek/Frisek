@@ -1,7 +1,7 @@
-[![MasterHead](https://www.esri.com/content/dam/esrisites/en-us/arcgis/capabilities/spatial-analysis/images/bigdata-realtime.gif)](https://rishavchanda.io)
+[![MasterHead](https://2.bp.blogspot.com/-fCex9hywM3w/XhPb07u38WI/AAAAAAAACdg/asp08waq5wQNQKBsQn_6YrB6kq6G1MLEwCLcBGAsYHQ/s1600/neuralnetworklearning.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Frisek</h1>
 <h3 align="center">A passionate algorithmic trader from México</h3>
-(img align="right" alt="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frisek&label=Profile%20views&color=0e75b6&style=flat" alt="frisek" /> </p>
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frisek&show_icons=true&locale=en" alt="frisek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frisek&" alt="frisek" /></p>
-
